@@ -1,0 +1,4 @@
+How does the internet work? What happens when you click on a link? 
+
+The internet works by receiving requests from users, and sending it to servers. The servers then process the request 
+and return a response to the user. When you click on a link
